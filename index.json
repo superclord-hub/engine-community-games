@@ -29,5 +29,13 @@
     "description": "gg",
     "url": "https://raw.githubusercontent.com/superclord-hub/engine-community-games/main/projects/game-1767567819099.json",
     "visibility": "source"
+  },
+  {
+    "id": "game-1767568275220",
+    "name": "Bomberman",
+    "author": "omaga",
+    "description": "yg",
+    "url": "https://raw.githubusercontent.com/superclord-hub/engine-community-games/main/community_uploads/game-1767568275220.json",
+    "visibility": "private"
   }
 ]
